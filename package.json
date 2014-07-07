@@ -1,0 +1,25 @@
+{
+  "name": "tweetmap",
+  "version": "0.0.0",
+  "description": "Geo-based Twitter data visualizer",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^1.0.6",
+    "twit": "^1.1.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strixcuriosus/tweetmap.git"
+  },
+  "author": "Ash Hoover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strixcuriosus/tweetmap/issues"
+  },
+  "homepage": "https://github.com/strixcuriosus/tweetmap"
+}
